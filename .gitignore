@@ -5,6 +5,7 @@ Thumbs.db
 # Python
 *.pyc
 *.pyo
+dist
 
 # Common IDEs
 *.swp
